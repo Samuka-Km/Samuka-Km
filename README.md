@@ -4,14 +4,18 @@
 </p>
 
 <h2>
-   Meus objetivos 
+  🎯 Meus objetivos 
 </h2>
 <P> Os principais objetivos são:<br>
    <br>
    -Aprimorar meus conhecimentos em programação e desenvolvimento de sistemas;<br>
+   <br>
    -Aprender novas linguagens e tecnologias;<br>
+   <br>
    -Desenvolver projetos para colocar meus conhecimentos em prática;<br>
+   <br>
    -Criar um portfólio com meus principais projetos para buscar minha primeira oportunidade na área de tecnologia;<br>
+   <br>
    -Evoluir minhas habilidades em HTML, CSS, JavaScript, banco de dados, python, C e C++.<br>
    
 </P>
