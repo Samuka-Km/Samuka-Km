@@ -1,5 +1,3 @@
-<img src="https://pin.it/73NW6Ocw8" width="300px">
-
 # Olá! Eu sou o Samuel Kimura 👋
 
 Sou estudante do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas, em Jundiaí–SP. Sempre gostei de tecnologia e atualmente estou aprendendo mais sobre programação por meio das aulas e dos meus projetos. E este perfil tem como objetivo compartilhar o que venho desenvolvendo e acompanhar minha evolução na área.
