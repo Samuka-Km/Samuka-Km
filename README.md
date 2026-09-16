@@ -1,4 +1,4 @@
-<img src="assets/Spider-Man GIF by Spider-Man Into The Spider-Verse.gif" width="300px" alt="Miles Morales">
+<img src="assets/Spider-Man GIF by Spider-Man Into The Spider-Verse.gif" width="700px" alt="Miles Morales">
 
 # Olá! Eu sou o Samuel Kimura 👋
 
