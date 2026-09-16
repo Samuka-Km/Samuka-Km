@@ -1,3 +1,5 @@
+<img src="assets/Spider-Man GIF by Spider-Man Into The Spider-Verse.gif" width="300px" alt="Miles Morales">
+
 # Olá! Eu sou o Samuel Kimura 👋
 
 Sou estudante do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas, em Jundiaí–SP. Sempre gostei de tecnologia e atualmente estou aprendendo mais sobre programação por meio das aulas e dos meus projetos. E este perfil tem como objetivo compartilhar o que venho desenvolvendo e acompanhar minha evolução na área.
