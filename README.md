@@ -1,4 +1,4 @@
-<img src="(https://pin.it/73NW6Ocw8)" width="300px">
+<img src="https://pin.it/73NW6Ocw8" width="300px">
 
 # Olá! Eu sou o Samuel Kimura 👋
 
