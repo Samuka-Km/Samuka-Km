@@ -1,22 +1,41 @@
-<h1>👋 Olá! Meu nome é Samuel Kimura</h1>
-<p>
-   E este é meu Github onde eu guardo meus projetos e códigos do meu curso desenvolvimento de sistemas. 
-</p>
+# Olá! Eu sou o Samuel Kimura 👋
 
-<h2>
-  🎯 Meus objetivos 
-</h2>
-<P> Os principais objetivos são:<br>
-   <br>
-   -Aprimorar meus conhecimentos em programação e desenvolvimento de sistemas;<br>
-   <br>
-   -Aprender novas linguagens e tecnologias;<br>
-   <br>
-   -Desenvolver projetos para colocar meus conhecimentos em prática;<br>
-   <br>
-   -Criar um portfólio com meus principais projetos para buscar minha primeira oportunidade na área de tecnologia;<br>
-   <br>
-   -Evoluir minhas habilidades em HTML, CSS, JavaScript, banco de dados, python, C e C++.<br>
-   
-</P>
+Sou estudante do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas, em Jundiaí–SP. Tenho interesse por programação e tecnologia e estou sempre buscando desenvolver novos conhecimentos por meio de projetos escolares e pessoais.
 
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade profissional como **Jovem Aprendiz**, com o objetivo de adquirir experiência, desenvolver novas habilidades e ampliar meus conhecimentos em programação e tecnologia.
+
+---
+
+## 💻 Conhecimentos
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+---
+
+## 📚 Atualmente
+
+* Cursando Técnico em Desenvolvimento de Sistemas;
+* Aprendendo programação e desenvolvimento de projetos;
+* Buscando evoluir meus conhecimentos em tecnologia;
+* Desenvolvendo projetos acadêmicos e pessoais.
+
+---
+
+## 📂 Projetos
+
+Neste perfil, compartilho projetos e atividades desenvolvidos durante meus estudos. Eles representam minha evolução e o que venho aprendendo na área de tecnologia.
+
+---
+
+## 📫 Contato
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:samuel.devkimura@gmail.com)
+![Localização](https://img.shields.io/badge/Jundiaí,_SP-333333?style=flat-square\&logo=googlemaps\&logoColor=white)
